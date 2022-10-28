@@ -1,6 +1,6 @@
-#Hi 👋, I'm Abhishek
-Web developer
-🌱 I’m currently learning JavaScript
+# Hi 👋, I'm Abhishek
+# Web developer
+# 🌱 I’m currently learning JavaScript
 
 💬 Ask me about HTML, CSS
 
