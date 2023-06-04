@@ -13,8 +13,7 @@
 ## Languages and Tools:
 <img src="https://img.icons8.com/color/344/html-5--v1.png" width="30px"> <img src="https://img.icons8.com/fluency/344/css3.png" width="30px"> <img src="https://img.icons8.com/color/344/javascript--v1.png" width="30px">
 <img src="https://github.com/Abhi-Cool-karni/Abhishekak/assets/83471943/385f920d-8548-440f-9dd7-a091747d0a56" width="30px">
-![image](https://github.com/Abhi-Cool-karni/Abhishekak/assets/83471943/4f8c33ad-733e-44a3-8a4b-0c50e63f504b)
-
+<img src="https://github.com/Abhi-Cool-karni/Abhishekak/assets/83471943/4f8c33ad-733e-44a3-8a4b-0c50e63f504b" width="30px">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhi-Cool-karni&show_icons=true&locale=en&layout=compact" alt="Abhi-Cool-karni" /></p>
 
