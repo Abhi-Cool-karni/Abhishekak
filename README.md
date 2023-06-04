@@ -1,8 +1,8 @@
 <h1 align=center> 👋 Hi, I'm Abhishek</h1> 
-<h3 align=center> Web developer </h3>
+<h3 align=center> Software Tester </h3>
 
 - 🌱 I'm currently learning React
-- 📝 Ask me about: HTML5, CSS3, Javascript.
+- 📝 Ask me about: HTML5, CSS3, Javascript, JIRA, Software Testing, Selenium Webdriver.
 - 📬 Reach me: abhishekkul2000@yahoo.com 
 
 #### Connect with me:
