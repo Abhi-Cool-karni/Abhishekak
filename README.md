@@ -3,7 +3,7 @@
 
 - 🌱 I'm currently learning React
 - 📝 Ask me about: HTML5, CSS3, Javascript, JIRA, Software Testing, Selenium Webdriver, Python.
-- 📬 Reach me: abhishekkul2000@yahoo.com 
+- 📬 Reach me: abhishekkul2000@gmail.com 
 
 #### Connect with me:
 <a href="https://twitter.com/Abhishekkul2000">
