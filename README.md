@@ -1,8 +1,8 @@
 <h1 align=center> 👋 Hi, I'm Abhishek</h1> 
-<h3 align=center> Software Tester </h3>
+<h3 align=center> Aspiring Devops Enginner</h3>
 
-- 🌱 I'm currently learning Automation
-- 📝 Ask me about: HTML5, CSS3, Javascript, JIRA, Software Testing, Selenium Webdriver, Python.
+- 🌱 I'm currently learning Devops
+- 📝 Ask me about: HTML5, CSS3, Javascript, JIRA.
 - 📬 Reach me: abhishekkul2000@gmail.com 
 
 #### Connect with me:
